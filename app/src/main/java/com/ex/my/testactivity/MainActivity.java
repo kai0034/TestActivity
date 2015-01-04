@@ -11,6 +11,7 @@ public class MainActivity extends ActionBarActivity {
 
 
     //Adding all toast messages to life cycle method
+    //Testing modifying on github website
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
